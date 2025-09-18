@@ -14,12 +14,12 @@ Here are my main school projects so far:
 
 | Project | Description |
 |---------|------------|
-| [42-Libft](https://github.com/renatomotamanuel/42-Libft.git) | My own library, my first C project |
-| [42-Printf](https://github.com/renatomotamanuel/42-Printf.git) | Printf function recreation |
-| [42-Get_next_line](https://github.com/renatomotamanuel/42-Get_next_line.git) | Reading from file descriptor |
-| [42-Push_swap](https://github.com/renatomotamanuel/42-Push_swap.git) | Sorting algorithms |
-| [42-So_long](https://github.com/renatomotamanuel/42-So_long.git) | A small 2D game |
-| [42-Pipex](https://github.com/renatomotamanuel/42-Pipex.git) | Execution of commands from a shell |
-| [42-Philosophers](https://github.com/renatomotamanuel/42-Philosophers.git) | The Dining Philosophers problem |
-| [42-Minishell](https://github.com/renatomotamanuel/Minishell.git) | My own minimalist shell |
-| [42-Cube3D](https://github.com/renatomotamanuel/cub3d.git) | Raycasting game |
+| [Libft](https://github.com/renatomotamanuel/42-Libft.git) | My own library, my first C project |
+| [Printf](https://github.com/renatomotamanuel/42-Printf.git) | Printf function recreation |
+| [Get_next_line](https://github.com/renatomotamanuel/42-Get_next_line.git) | Reading from file descriptor |
+| [Push_swap](https://github.com/renatomotamanuel/42-Push_swap.git) | Sorting algorithms |
+| [So_long](https://github.com/renatomotamanuel/42-So_long.git) | A small 2D game |
+| [Pipex](https://github.com/renatomotamanuel/42-Pipex.git) | Execution of commands from a shell |
+| [Philosophers](https://github.com/renatomotamanuel/42-Philosophers.git) | The Dining Philosophers problem |
+| [Minishell](https://github.com/renatomotamanuel/Minishell.git) | My own minimalist shell |
+| [Cube3D](https://github.com/renatomotamanuel/cub3d.git) | Raycasting game |
