@@ -25,5 +25,5 @@ Here are my main school projects so far:
 | [minishell](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank03/minishell) | Simplified UNIX shell recreation | |
 | [NetPractice](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/netpractice) | Practical exercise to learn the basics of networking | |
 | [cub3d](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/cub3d) | A 3D game featuring Raycasting algorithms | <div align="center">
-  <img src="https://i.imgur.com/8BgVXcY.png">
+  <img src="https://skillicons.dev/icons?i=c">
 </div> |
