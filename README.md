@@ -14,13 +14,14 @@ Here are my main school projects so far:
 
 | Project | Description |
 |---------|------------|
-| [Libft](https://github.com/renatomotamanuel/42-Libft.git) | My own C library|
-| [ft_printf](https://github.com/renatomotamanuel/42-Printf.git) | Printf function recreation |
+| [Libft](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank00/Libft) | My own C library|
+| [ft_printf](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank01/ft_printf) | Printf function recreation |
 | Born2beRoot | Set up of a Debian virtual environment |
-| [get_next_line](https://github.com/renatomotamanuel/42-Get_next_line.git) | Function that reads from a file descriptor and returns a line |
+| [get_next_line](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank01/get_next_line) | Function that reads from a file descriptor and returns a line |
 | [push_swap](https://github.com/renatomotamanuel/42-Push_swap.git) | Sorting algorithm with restricting rules |
 | [so_long](https://github.com/renatomotamanuel/42-So_long.git) | A small 2D game |
 | [pipex](https://github.com/renatomotamanuel/42-Pipex.git) | A micro implementation of shell, supporting command lines, pipes and redirections |
 | [philosophers](https://github.com/renatomotamanuel/42-Philosophers.git) | The Dining Philosophers problem using multithreading |
 | [minishell](https://github.com/renatomotamanuel/Minishell.git) | Simplified UNIX shell recreation |
+| [NetPractice](https://github.com/renatomotamanuel/cub3d.git) | Practical exercise to learn the basics of networking |
 | [cub3D](https://github.com/renatomotamanuel/cub3d.git) | A 3D game featuring Raycasting algorithms |
