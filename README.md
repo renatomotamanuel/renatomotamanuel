@@ -13,10 +13,10 @@ Hi there 👋
 Here are my main school projects so far:
 
 | Project | Description | Languages |
-|---------|------------|-------------------|
+|---------|------------|------------|
 | [Libft](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank00/Libft) | My own C library | [<div align="center"> <img src="https://skillicons.dev/icons?i=c"> </div>](https://cplusplus.com/reference/clibrary/) |
 | [ft_printf](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank01/ft_printf) | Printf function recreation | [<div align="center"> <img src="https://skillicons.dev/icons?i=c"> </div>](https://cplusplus.com/reference/clibrary/) |
-| Born2beRoot | Set up of a Debian virtual environment |  [<div align=left > <img src="https://skillicons.dev/icons?i=debian"> </div>](https://www.debian.org/doc/) [<div align=right > <img src="https://skillicons.dev/icons?i=bash"> </div>](https://www.gnu.org/software/bash/manual/bash.html) |
+| Born2beRoot | Set up of a Debian virtual environment | [<div align="center"> <img src="https://skillicons.dev/icons?i=debian,bash"> </div>](https://www.debian.org/doc/)(https://www.gnu.org/software/bash/manual/bash.html) |
 | [get_next_line](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank01/get_next_line) | Function that reads from a file descriptor and returns a line | [<div align="center"> <img src="https://skillicons.dev/icons?i=c"> </div>](https://cplusplus.com/reference/clibrary/) |
 | [push_swap](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank02/push_swap) | Sorting algorithm with restricting rules | [<div align="center"> <img src="https://skillicons.dev/icons?i=c"> </div>](https://cplusplus.com/reference/clibrary/) |
 | [so_long](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank02/so_long) | A small 2D game | [<div align="center"> <img src="https://skillicons.dev/icons?i=c"> </div>](https://cplusplus.com/reference/clibrary/) |
