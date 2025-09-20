@@ -22,4 +22,4 @@ Here are my main school projects so far:
 | [pipex](https://github.com/renatomotamanuel/42-Pipex.git) | A micro implementation of shell, supporting command lines, pipes and redirections |
 | [philosophers](https://github.com/renatomotamanuel/42-Philosophers.git) | The Dining Philosophers problem using multithreading |
 | [minishell](https://github.com/renatomotamanuel/Minishell.git) | Simplified UNIX shell recreation |
-| [cub3D](https://github.com/renatomotamanuel/cub3d.git) | IN PROGRESS |
+| [cub3D](https://github.com/renatomotamanuel/cub3d.git) | A 3D game featurig Raycasting algorithms |
