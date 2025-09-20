@@ -14,12 +14,12 @@ Here are my main school projects so far:
 
 | Project | Description |
 |---------|------------|
-| [Libft](https://github.com/renatomotamanuel/42-Libft.git) | My own library, my first C project |
-| [Printf](https://github.com/renatomotamanuel/42-Printf.git) | Printf function recreation |
-| [Get_next_line](https://github.com/renatomotamanuel/42-Get_next_line.git) | Reading from file descriptor |
-| [Push_swap](https://github.com/renatomotamanuel/42-Push_swap.git) | Sorting algorithms |
-| [So_long](https://github.com/renatomotamanuel/42-So_long.git) | A small 2D game |
-| [Pipex](https://github.com/renatomotamanuel/42-Pipex.git) | Execution of commands from a shell |
-| [Philosophers](https://github.com/renatomotamanuel/42-Philosophers.git) | The Dining Philosophers problem |
-| [Minishell](https://github.com/renatomotamanuel/Minishell.git) | My own minimalist shell |
-| [Cube3D](https://github.com/renatomotamanuel/cub3d.git) | Raycasting game |
+| [Libft](https://github.com/renatomotamanuel/42-Libft.git) | My own C library|
+| [ft_printf](https://github.com/renatomotamanuel/42-Printf.git) | Printf function recreation |
+| [get_next_line](https://github.com/renatomotamanuel/42-Get_next_line.git) | Function that reads from a file descriptor and returns a line |
+| [push_swap](https://github.com/renatomotamanuel/42-Push_swap.git) | Sorting algorithm with restricting rules |
+| [so_long](https://github.com/renatomotamanuel/42-So_long.git) | A small 2D game |
+| [pipex](https://github.com/renatomotamanuel/42-Pipex.git) | A micro implementation of shell, supporting command lines, pipes and redirections |
+| [philosophers](https://github.com/renatomotamanuel/42-Philosophers.git) | The Dining Philosophers problem using multithreading |
+| [minishell](https://github.com/renatomotamanuel/Minishell.git) | Simplified UNIX shell recreation |
+| [cub3D](https://github.com/renatomotamanuel/cub3d.git) | IN PROGRESS |
