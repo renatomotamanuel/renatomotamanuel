@@ -24,4 +24,4 @@ Here are my main school projects so far:
 | [philosophers](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank03/philosophers) | The Dining Philosophers problem using multithreading | |
 | [minishell](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank03/minishell) | Simplified UNIX shell recreation | |
 | [NetPractice](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/netpractice) | Practical exercise to learn the basics of networking | |
-| [cub3d](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/cub3d) | A 3D game featuring Raycasting algorithms | <div align="center"> <img src="https://skillicons.dev/icons?i=c"> </div> |
+| [cub3d](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/cub3d) | A 3D game featuring Raycasting algorithms | <div align="center"> <img src="https://skillicons.dev/icons?i=c"> </div>(https://cplusplus.com/reference/clibrary/) |
