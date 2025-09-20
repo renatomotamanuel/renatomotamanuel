@@ -9,8 +9,8 @@ Hi there 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## My 42 Journey
-Here are my main school projects so far:
+## 📚 My 42 Journey
+Here are my school projects so far:
 
 | Project | Description | Languages |
 |---------|------------|------------|
