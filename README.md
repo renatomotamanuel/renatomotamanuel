@@ -13,7 +13,7 @@ Hi there 👋
 Here are my main school projects so far:
 
 | Project | Description | Languages |
-|---------|------------|-|
+|---------|------------|------------|
 | [Libft](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank00/Libft) | My own C library | |
 | [ft_printf](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank01/ft_printf) | Printf function recreation | |
 | Born2beRoot | Set up of a Debian virtual environment | |
@@ -24,4 +24,4 @@ Here are my main school projects so far:
 | [philosophers](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank03/philosophers) | The Dining Philosophers problem using multithreading | |
 | [minishell](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank03/minishell) | Simplified UNIX shell recreation | |
 | [NetPractice](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/netpractice) | Practical exercise to learn the basics of networking | |
-| [cub3d](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/cub3d) | A 3D game featuring Raycasting algorithms |  [![C](https://skillicons.dev/icons?i=c)](https://cplusplus.com/reference/clibrary/) |
+| [cub3d](https://github.com/renatomotamanuel/42lisboa/tree/master/CommonCore/Rank04/cub3d) | A 3D game featuring Raycasting algorithms |[![C](https://skillicons.dev/icons?i=c)](https://cplusplus.com/reference/clibrary/)|
