@@ -16,7 +16,7 @@ Here are my main school projects so far:
 |---------|------------|
 | [Libft](https://github.com/renatomotamanuel/42-Libft.git) | My own C library|
 | [ft_printf](https://github.com/renatomotamanuel/42-Printf.git) | Printf function recreation |
-| [Born2beRoot] | Set up of a Debian virtual environment |
+| Born2beRoot | Set up of a Debian virtual environment |
 | [get_next_line](https://github.com/renatomotamanuel/42-Get_next_line.git) | Function that reads from a file descriptor and returns a line |
 | [push_swap](https://github.com/renatomotamanuel/42-Push_swap.git) | Sorting algorithm with restricting rules |
 | [so_long](https://github.com/renatomotamanuel/42-So_long.git) | A small 2D game |
