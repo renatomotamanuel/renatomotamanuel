@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center"> Welcome! </h1>
-    <h1 align="center"> I'm Renato </h1>
+    <h2 align="center"> I'm Renato </h2>
 
 <p align="center">
   <a href="#">
