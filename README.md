@@ -1,3 +1,12 @@
+<p align="center">
+    <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwNGlxYXVtc2ZlcmdvcmdyazNuYTlsd3RqYmZsZDNoZWlqM3ByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/llUIrcZbR7yuwoH8jk/giphy.gif" width="80"> Welcome to my Profile <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwNGlxYXVtc2ZlcmdvcmdyazNuYTlsd3RqYmZsZDNoZWlqM3ByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/llUIrcZbR7yuwoH8jk/giphy.gif" width="80"></h1>
+
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+flex&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+André+Lencart!;I'm+a+Student+at+42+Lisboa!" alt="Typing SVG"
+  </a>
+</p>
+
 Hi there 👋
 
 - 🔭 I’m currently working on ...
