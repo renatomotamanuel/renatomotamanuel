@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwNGlxYXVtc2ZlcmdvcmdyazNuYTlsd3RqYmZsZDNoZWlqM3ByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/llUIrcZbR7yuwoH8jk/giphy.gif" width="80"> Welcome to my Profile <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwNGlxYXVtc2ZlcmdvcmdyazNuYTlsd3RqYmZsZDNoZWlqM3ByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/llUIrcZbR7yuwoH8jk/giphy.gif" width="80"></h1>
+    <h1 align="center"> Welcome to my Profile </h1>
 
 <p align="center">
   <a href="#">
