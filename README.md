@@ -1,10 +1,6 @@
 <p align="center">
-    <h1 align="center"> Welcome! <br/>
-                       I'm Renato </h1>
-
-<p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+flex&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&height=80&lines=Hi+there!+I'm+André+Lencart!;I'm+a+Student+at+42+Lisboa!" alt="Typing SVG"
+    [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WELCOME&width=800&height=400)](https://github.com/Akshay090/svg-banners)
   </a>
 </p>
 
