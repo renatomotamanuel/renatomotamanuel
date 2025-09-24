@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="#">
-    [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WELCOME&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-  </a>
-</p>
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=WELCOME&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 Hi there 👋
 
 - 🔭 I’m currently working on ...
